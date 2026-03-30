@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kavya Soneji 
-- 👀 My (interest + focus + aim) is on problem solving and file a new challenge everyday!
-- 🌱 I’m currently learning soft skills as programming languages(Java, Python, Kotlin, etc.), Data Science and Machine Learning.
-- 📫 You can reach me at kavyasoneji@gmail.com
-- ⚡ Fun fact : A bird can fly without wings if it knows how to jump.
+- Hi, I’m Kavya Soneji 
+- My (interest + focus + aim) is on problem solving and file a new challenge everyday!
+- I’m currently learning soft skills as programming languages(Java, Python, Kotlin, etc.), Data Science and Machine Learning.
+- You can reach me at kavyasoneji@gmail.com
+- Fun fact : A bird can fly without wings if it knows how to jump.
